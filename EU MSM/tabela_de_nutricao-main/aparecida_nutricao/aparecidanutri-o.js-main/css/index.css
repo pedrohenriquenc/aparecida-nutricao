@@ -92,7 +92,7 @@ th{
 }
 
 label{
-	color: #555;
+	color: #003078;
 	display: block;
 	margin-bottom: .2em;
 }
@@ -183,7 +183,6 @@ button[disabled=disabled], button:disabled {
 	top: 40px;
 	left: 0px;
 	right:30px;
-	align-items: end;
 }
 
 .cont1{
@@ -194,6 +193,7 @@ button[disabled=disabled], button:disabled {
 .add_p{
 	position: absolute;
 	top: 400px;
+	text-align: center;
 }
 
 .adicionar-paciente{
